@@ -153,8 +153,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0014648, y: 559}
-  m_SizeDelta: {x: -577.34, y: 1118}
+  m_AnchoredPosition: {x: 0.0014648438, y: -0.5}
+  m_SizeDelta: {x: -577.34, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &476842349
 MonoBehaviour:
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1445055675532573974, guid: 080854337275396449dbc807cf361f5b, type: 3}
+  m_Sprite: {fileID: 6039151996915959958, guid: d624ebed85f33324193c91d053fce53c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -695,8 +695,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -440}
-  m_SizeDelta: {x: 151.9164, y: 28.463}
+  m_AnchoredPosition: {x: 0, y: -434}
+  m_SizeDelta: {x: 160.7942, y: 35.1707}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1393778462
 MonoBehaviour:
@@ -786,7 +786,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 415574774, guid: aca0b6d35122e16419e39775966ffe60, type: 3}
+  m_Sprite: {fileID: -5086458757861956760, guid: 3d4bdf8ddabf3ba4abbcd96ea653c436, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -977,8 +977,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -5.9532, y: -71.8971}
-  m_SizeDelta: {x: -1067.1636, y: -442.01}
+  m_AnchoredPosition: {x: 0, y: -21.45105}
+  m_SizeDelta: {x: -1067.1636, y: -542.9021}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2136171351
 MonoBehaviour:
@@ -1000,7 +1000,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6649342535542895517, guid: d935994df38c962489d4f3d8074bb0b1, type: 3}
+  m_Sprite: {fileID: 6649342535542895517, guid: 2689272fcc4bbee4d99ae1474b9ce83c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

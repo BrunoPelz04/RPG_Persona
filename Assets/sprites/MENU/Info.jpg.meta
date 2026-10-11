@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aca0b6d35122e16419e39775966ffe60
+guid: ecfdc2ef834efe24eae21269e243d6e9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2723228064031494537
-    second: ChatGPT Image 9 abr 2025, 18_03_22_0
+      213: -5947433861040873002
+    second: Info_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,97 +96,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT Image 9 abr 2025, 18_03_22_0
+      name: Info_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 388
-        width: 397
-        height: 225
+        x: 0
+        y: 0
+        width: 1645
+        height: 551
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 981d8f6fe79dac520800000000000000
-      internalID: 2723228064031494537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ChatGPT Image 9 abr 2025, 18_03_22_1
-      rect:
-        serializedVersion: 2
-        x: 499
-        y: 386
-        width: 410
-        height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7bb01892bfdd8c45af4940268c44a21
-      internalID: -1487724569
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ChatGPT Image 9 abr 2025, 18_03_22_2
-      rect:
-        serializedVersion: 2
-        x: 995
-        y: 386
-        width: 394
-        height: 228
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6aca123b8782c4e40ae4c6fc055d87de
-      internalID: 415574774
+      spriteID: 6d1678b0a68767da0800000000000000
+      internalID: -5947433861040873002
       vertices: []
       indices: 
       edges: []
@@ -195,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: be85882fea479ac49bef703e26ef7fcd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -204,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      ChatGPT Image 9 abr 2025, 18_03_22_1: -1487724569
-      ChatGPT Image 9 abr 2025, 18_03_22_2: 415574774
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
