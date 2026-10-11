@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: e23ecc902a315664fae7a5fa7d83a149
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6173134248626710510
+    second: caminar02_0
+  - first:
+      213: 1504826464087171778
+    second: caminar02_1
+  - first:
+      213: 1617417848320308214
+    second: caminar02_2
+  - first:
+      213: -2584745426093705520
+    second: caminar02_3
+  - first:
+      213: -4623385305874802237
+    second: caminar02_4
+  - first:
+      213: 2103248532315893814
+    second: caminar02_5
+  - first:
+      213: 5997101843576973904
+    second: caminar02_6
+  - first:
+      213: -1877047444417814774
+    second: caminar02_7
+  - first:
+      213: -2381865785025059507
+    second: caminar02_8
+  - first:
+      213: 5672531498420610015
+    second: caminar02_9
+  - first:
+      213: -5140858735952600110
+    second: caminar02_10
+  - first:
+      213: -2961022119923681270
+    second: caminar02_11
+  - first:
+      213: 7447909726320122261
+    second: caminar02_12
+  - first:
+      213: -8729704456206822375
+    second: caminar02_13
+  - first:
+      213: -525422250109269086
+    second: caminar02_14
+  - first:
+      213: -4656258247011449992
+    second: caminar02_15
+  - first:
+      213: -5327455622206351181
+    second: caminar02_16
+  - first:
+      213: 7484985172011358452
+    second: caminar02_17
+  - first:
+      213: -1256584370020702643
+    second: caminar02_18
+  - first:
+      213: -2884784704024340595
+    second: caminar02_19
+  - first:
+      213: 8837770635558120996
+    second: caminar02_20
+  - first:
+      213: -6065674123544840256
+    second: caminar02_21
+  - first:
+      213: 1538670028351327256
+    second: caminar02_22
+  - first:
+      213: -6446304789767861757
+    second: caminar02_23
+  - first:
+      213: 6349290436129587534
+    second: caminar02_24
+  - first:
+      213: 6638732939905272728
+    second: caminar02_25
+  - first:
+      213: -7410567311685970639
+    second: caminar02_26
+  - first:
+      213: 9043161028603929834
+    second: caminar02_27
+  - first:
+      213: 6786547621684700761
+    second: caminar02_28
+  - first:
+      213: -3339265933163621459
+    second: caminar02_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caminar02_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 126
+        width: 294
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ee1da819116aa70800000000000000
+      internalID: 8837770635558120996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar02_22
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 114
+        width: 259
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ccb621d347a5510800000000000000
+      internalID: 1538670028351327256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar02_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 270
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872d0a4a78de94643b4c263e11ab826f
+      internalID: -1542902095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar02_1
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 129
+        width: 293
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70277e7c3ca6a9042bab7d26394bcc4e
+      internalID: -837245039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar02_2
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 113
+        width: 267
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48534a002d1b884e875d7a7605b1d54
+      internalID: -1229149959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar02_3
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 111
+        width: 276
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de71e0b9b65936f49a3dbd53678d7f49
+      internalID: 1669548353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar02_4
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 131
+        width: 234
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a02728ec8f6047976ee7e3d25a046
+      internalID: -330332331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminar02_5
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 125
+        width: 217
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6629557525702904d95747254ec99694
+      internalID: -991174919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 264ca4ef190900243b72161098c4ecd0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caminar02_0: -1542902095
+      caminar02_1: -837245039
+      caminar02_2: -1229149959
+      caminar02_3: 1669548353
+      caminar02_4: -330332331
+      caminar02_5: -991174919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
