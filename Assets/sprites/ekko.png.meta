@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: 9e78d2509a6174442b12554ceb621bd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6515671138174980082
+    second: ekko_0
+  - first:
+      213: 3511021170007925307
+    second: ekko_1
+  - first:
+      213: -7406543752954603289
+    second: ekko_2
+  - first:
+      213: 6172485965162924261
+    second: ekko_3
+  - first:
+      213: -8447282192433564780
+    second: ekko_4
+  - first:
+      213: 1073619533718618820
+    second: ekko_5
+  - first:
+      213: 8803762354742333144
+    second: ekko_6
+  - first:
+      213: 764737790800542342
+    second: ekko_7
+  - first:
+      213: -8535479577271622344
+    second: ekko_8
+  - first:
+      213: -6145780877838679065
+    second: ekko_9
+  - first:
+      213: -4351578278781379599
+    second: ekko_10
+  - first:
+      213: -6396868184207973931
+    second: ekko_11
+  - first:
+      213: -3848936373607116812
+    second: ekko_12
+  - first:
+      213: -8074898069409998043
+    second: ekko_13
+  - first:
+      213: 7671442941950917619
+    second: ekko_14
+  - first:
+      213: 2397869611015809122
+    second: ekko_15
+  - first:
+      213: 7940609077089456537
+    second: ekko_16
+  - first:
+      213: 6315491237372382872
+    second: ekko_17
+  - first:
+      213: -7026130746758133687
+    second: ekko_18
+  - first:
+      213: 4657486827462418212
+    second: ekko_19
+  - first:
+      213: 3287277577057722393
+    second: ekko_20
+  - first:
+      213: 1007331880737768485
+    second: ekko_21
+  - first:
+      213: 9165093506243377130
+    second: ekko_22
+  - first:
+      213: -1256726390739226774
+    second: ekko_23
+  - first:
+      213: 8690739415301844811
+    second: ekko_24
+  - first:
+      213: 8144363751773771471
+    second: ekko_25
+  - first:
+      213: -870404577791089963
+    second: ekko_26
+  - first:
+      213: 9193788745126210096
+    second: ekko_27
+  - first:
+      213: -229620888241864990
+    second: ekko_28
+  - first:
+      213: 4343226129573324756
+    second: ekko_29
+  - first:
+      213: 9147189430354552024
+    second: ekko_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ekko_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 209
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2495d45b4499d64c8b3bcac604b7c35
+      internalID: -1350571555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekko_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 220
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d1e4cde8bf4c4e8abe4a0c5cb1d24
+      internalID: -902583142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekko_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 214
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2b3e824dd4444b896a6ede47ab1d1
+      internalID: -771384623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekko_3
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1
+        width: 226
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1546bc62acd52a4ca79e57be6ae267d
+      internalID: 1842423033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekko_4
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 0
+        width: 198
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 14, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea773a87cf07544db6a39ef0d306e1d
+      internalID: -7881405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekko_5
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 14
+        width: 213
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca74ef4268396e24dbd371e5dbbcd77c
+      internalID: -385099970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ekko_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 408
+        width: 571
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb5e99cdb563b649a076f3ab75d1b5f
+      internalID: -1762023386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 63ad54cabf4edce4b858489b126c98ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ekko_0: -1350571555
+      ekko_1: -902583142
+      ekko_2: -771384623
+      ekko_3: 1842423033
+      ekko_4: -7881405
+      ekko_5: -385099970
+      ekko_6: -1762023386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

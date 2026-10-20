@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 45bcb338236a3a34483aa3323fdd1b5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2663663259011458935
+    second: vi_0
+  - first:
+      213: -4176850906786882904
+    second: vi_1
+  - first:
+      213: 2708011782434187551
+    second: vi_2
+  - first:
+      213: 7567774941701854396
+    second: vi_3
+  - first:
+      213: -1654566436613686247
+    second: vi_4
+  - first:
+      213: -901225965882351337
+    second: vi_5
+  - first:
+      213: -6423231277959526659
+    second: vi_6
+  - first:
+      213: 8963147535288894885
+    second: vi_7
+  - first:
+      213: 2277199435205572213
+    second: vi_8
+  - first:
+      213: 3973439485934132175
+    second: vi_9
+  - first:
+      213: 6737166845690001420
+    second: vi_10
+  - first:
+      213: -2412720772813814117
+    second: vi_11
+  - first:
+      213: -6464092152899789122
+    second: vi_12
+  - first:
+      213: -5756104834308542120
+    second: vi_13
+  - first:
+      213: -46536094620447159
+    second: vi_14
+  - first:
+      213: -6469976458500484532
+    second: vi_15
+  - first:
+      213: 8371437871961301213
+    second: vi_16
+  - first:
+      213: 4710516041867729914
+    second: vi_17
+  - first:
+      213: 8345517187363127072
+    second: vi_18
+  - first:
+      213: -6811595876490481808
+    second: vi_19
+  - first:
+      213: 2554768193710177987
+    second: vi_20
+  - first:
+      213: 1043266981907084338
+    second: vi_21
+  - first:
+      213: 5587133649465591605
+    second: vi_22
+  - first:
+      213: -3351022135012431518
+    second: vi_23
+  - first:
+      213: -4351784065232389678
+    second: vi_24
+  - first:
+      213: -8947742234801484380
+    second: vi_25
+  - first:
+      213: 6473050722438591919
+    second: vi_26
+  - first:
+      213: -182387465589536229
+    second: vi_27
+  - first:
+      213: 1176233604943433904
+    second: vi_28
+  - first:
+      213: -4825688465542851335
+    second: vi_29
+  - first:
+      213: 6314617165150459292
+    second: vi_30
+  - first:
+      213: 5849594380356064620
+    second: vi_31
+  - first:
+      213: 4020869936127231069
+    second: vi_32
+  - first:
+      213: -1744379227331034686
+    second: vi_33
+  - first:
+      213: -4192807216747860941
+    second: vi_34
+  - first:
+      213: -8810419605073471003
+    second: vi_35
+  - first:
+      213: 9184080337651927897
+    second: vi_36
+  - first:
+      213: -7582112841352790422
+    second: vi_37
+  - first:
+      213: 823886272574137965
+    second: vi_38
+  - first:
+      213: 4758748075525800644
+    second: vi_39
+  - first:
+      213: 1218509800082188716
+    second: vi_40
+  - first:
+      213: 4905258426134509849
+    second: vi_41
+  - first:
+      213: -6994446129372256172
+    second: vi_42
+  - first:
+      213: -7579982077021526073
+    second: vi_43
+  - first:
+      213: 3800797499336036235
+    second: vi_44
+  - first:
+      213: -8701593683587411936
+    second: vi_45
+  - first:
+      213: 5325875918161836017
+    second: vi_46
+  - first:
+      213: -6379774925822906846
+    second: vi_47
+  - first:
+      213: 8888386545417618276
+    second: vi_48
+  - first:
+      213: 7630592968953099849
+    second: vi_49
+  - first:
+      213: 7800975315093003851
+    second: vi_50
+  - first:
+      213: 5044604362464858245
+    second: vi_51
+  - first:
+      213: -7028776269072628852
+    second: vi_52
+  - first:
+      213: -7272262497585906172
+    second: vi_53
+  - first:
+      213: 2058579358538951536
+    second: vi_54
+  - first:
+      213: -3530732956179750844
+    second: vi_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vi_0
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 600
+        width: 379
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144cf5594320bd04eb767c24177b84e9
+      internalID: 1808134190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vi_1
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 302
+        width: 217
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4d08e4b02dc447bef59b8006372ff
+      internalID: -1958829128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vi_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 304
+        width: 208
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0cff290fd2a174380068c7d0bb637e
+      internalID: 1170184982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vi_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 307
+        width: 186
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c0e4422b833243b52421f10266590
+      internalID: -1758808242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vi_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 305
+        width: 158
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6a4e39fcd78b42a95fcfc891e5cd5
+      internalID: 1063104137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vi_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 305
+        width: 138
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d2d4d5c249c64c9cfd813972c787d
+      internalID: 376561675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vi_6
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 306
+        width: 207
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2af3991e356543af3811fc4b5b069
+      internalID: 747359468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b9f811e5d026a184f9bc7f46ea7747c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vi_0: 1808134190
+      vi_1: -1958829128
+      vi_2: 1170184982
+      vi_3: -1758808242
+      vi_4: 1063104137
+      vi_5: 376561675
+      vi_6: 747359468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
