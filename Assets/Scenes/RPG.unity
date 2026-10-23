@@ -158208,8 +158208,8 @@ Transform:
   m_GameObject: {fileID: 375199294}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -40.619987, y: -26.79, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -40.619987, y: -26.2, z: 0}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 42041725}
@@ -158273,7 +158273,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.2857143, y: 2.642857}
+    oldSize: {x: 2.01, y: 4.06}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -158325,7 +158325,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: -3177812612354319769, guid: 27eced2523b85cc49ad4061a037dd198, type: 3}
+  m_Sprite: {fileID: -1930463930, guid: b923517b361cc254bb23ff62bf5fe273, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -158798,7 +158798,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -10.29, y: -25.61, z: 0.12275691}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2080982082}
@@ -158821,7 +158821,7 @@ MonoBehaviour:
   - "Yo queria ir \xBFCual abra sido el motivo?"
   - Un consejo, al subir de nivel existe la probabilidad de obtener armadura
   - "Si tu armadura es la misma que el da\xF1o, entonces el enemigo no te hara da\xF1o"
-  imagenNPC: {fileID: 5866859938576792116, guid: 5597706b7b7f1ba47943ca2504ffd520, type: 3}
+  imagenNPC: {fileID: -567081227, guid: f98a849dde312db40b9cfcef49b74b1c, type: 3}
   nombreNPC: Mariana
   interactDistance: 3
   esTienda: 0
@@ -183168,7 +183168,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -10.29, y: -25.61, z: 0.12275691}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1224931764}
@@ -183187,7 +183187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - Me gusta jugar Liga de Leyendas
-  imagenNPC: {fileID: 8397996741022304014, guid: 5ee7b5374b8358a42a7da57dd15262dc, type: 3}
+  imagenNPC: {fileID: 1808134190, guid: 45bcb338236a3a34483aa3323fdd1b5c, type: 3}
   nombreNPC: Bruno
   interactDistance: 2
   esTienda: 0
@@ -184416,7 +184416,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -10.29, y: -25.61, z: 0.12275691}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1288781346}
@@ -184439,7 +184439,7 @@ MonoBehaviour:
   - 'Tomar el aire es super refrescante '
   - Si tienes alguna pregunta puedes irte a la parte de ayuda
   - Se encuentra al poner pausa
-  imagenNPC: {fileID: 5724880128895569795, guid: 13b6fd0bbb7cb944094071f74a6883a9, type: 3}
+  imagenNPC: {fileID: 7189606440607327572, guid: 2c633af408a0a2c49a50a564051ac973, type: 3}
   nombreNPC: Daniel
   interactDistance: 2
   esTienda: 0
@@ -184482,7 +184482,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.2142857, y: 1.8571428}
+    oldSize: {x: 3.0500002, y: 7.181495}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -184534,7 +184534,7 @@ SpriteRenderer:
   m_SortingLayerID: 1677188191
   m_SortingLayer: 2
   m_SortingOrder: 4
-  m_Sprite: {fileID: 3750806161236907998, guid: 27eced2523b85cc49ad4061a037dd198, type: 3}
+  m_Sprite: {fileID: 3227168420678400141, guid: 2c633af408a0a2c49a50a564051ac973, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -210212,7 +210212,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -40.62, y: -24.61, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 42041725}
@@ -210232,7 +210232,7 @@ MonoBehaviour:
   lines:
   - Por el momento nadie puede retirarte de la zona fronteriza
   - Ordenes del ejercito imperial
-  imagenNPC: {fileID: 4941923189732691063, guid: f271a39bddc187a47ba088b7327314a8, type: 3}
+  imagenNPC: {fileID: 3012552631347479670, guid: b923517b361cc254bb23ff62bf5fe273, type: 3}
   nombreNPC: Guardia
   interactDistance: 2
   esTienda: 0
@@ -210275,7 +210275,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.2857144, y: 2.7142856}
+    oldSize: {x: 2.43, y: 4.07}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -210327,7 +210327,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 6474751848725852927, guid: 27eced2523b85cc49ad4061a037dd198, type: 3}
+  m_Sprite: {fileID: -2380484706750522780, guid: b923517b361cc254bb23ff62bf5fe273, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -660936,7 +660936,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -10.29, y: -25.61, z: 0.12275691}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1191778734}
@@ -660959,7 +660959,7 @@ MonoBehaviour:
   - Te voy a explicar rapidamente, por este pasillo llegaras al bosque
   - "Si vas hacia abajo hay una peque\xF1a tienda por si ocupas algo"
   - Pero ten cuidado en el bsoque, hay plaga de ratas
-  imagenNPC: {fileID: -5629502267902918493, guid: 332b338362dd78640bafd8368dcc6733, type: 3}
+  imagenNPC: {fileID: -1762023386, guid: 9e78d2509a6174442b12554ceb621bd9, type: 3}
   nombreNPC: Alan
   interactDistance: 2
   esTienda: 0

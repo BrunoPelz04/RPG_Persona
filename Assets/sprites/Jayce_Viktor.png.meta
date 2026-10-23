@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: b923517b361cc254bb23ff62bf5fe273
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3179212964860022048
+    second: Jayce_Viktor_0
+  - first:
+      213: 1474500941910146596
+    second: Jayce_Viktor_1
+  - first:
+      213: 6270940846507391776
+    second: Jayce_Viktor_2
+  - first:
+      213: 6422943510659583075
+    second: Jayce_Viktor_3
+  - first:
+      213: 7044098251401410431
+    second: Jayce_Viktor_4
+  - first:
+      213: 5881765079582458180
+    second: Jayce_Viktor_5
+  - first:
+      213: -3810916913297474059
+    second: Jayce_Viktor_6
+  - first:
+      213: -8263634845784831406
+    second: Jayce_Viktor_7
+  - first:
+      213: 4447964069853056893
+    second: Jayce_Viktor_8
+  - first:
+      213: 5287904076328126903
+    second: Jayce_Viktor_9
+  - first:
+      213: 800740894344547767
+    second: Jayce_Viktor_10
+  - first:
+      213: 7815735522421812249
+    second: Jayce_Viktor_11
+  - first:
+      213: 5189548189085342652
+    second: Jayce_Viktor_12
+  - first:
+      213: -8460772018139822835
+    second: Jayce_Viktor_13
+  - first:
+      213: 1274775924559480147
+    second: Jayce_Viktor_14
+  - first:
+      213: -5347240527325813404
+    second: Jayce_Viktor_15
+  - first:
+      213: 4061735406576108520
+    second: Jayce_Viktor_16
+  - first:
+      213: 4075697458418536900
+    second: Jayce_Viktor_17
+  - first:
+      213: -1546146338908094889
+    second: Jayce_Viktor_18
+  - first:
+      213: 412825557418740528
+    second: Jayce_Viktor_19
+  - first:
+      213: -549845285689237738
+    second: Jayce_Viktor_20
+  - first:
+      213: 3012552631347479670
+    second: Jayce_Viktor_21
+  - first:
+      213: -5521045977097490856
+    second: Jayce_Viktor_22
+  - first:
+      213: -2380484706750522780
+    second: Jayce_Viktor_23
+  - first:
+      213: -3804501244121798751
+    second: Jayce_Viktor_24
+  - first:
+      213: 2520777439398863814
+    second: Jayce_Viktor_25
+  - first:
+      213: 8929518602495113987
+    second: Jayce_Viktor_26
+  - first:
+      213: 8985164099742931041
+    second: Jayce_Viktor_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jayce_Viktor_19
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 471
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b852048a6aab500800000000000000
+      internalID: 412825557418740528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 457
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fd11930ae8e58f0800000000000000
+      internalID: -549845285689237738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 373
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67482a238acbec920800000000000000
+      internalID: 3012552631347479670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 27
+        width: 195
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e21828fed4163b0800000000000000
+      internalID: -5521045977097490856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_23
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 17
+        width: 243
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a92e485c1d6fed0800000000000000
+      internalID: -2380484706750522780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_24
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 181
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7a69c8642b33bc0800000000000000
+      internalID: -3804501244121798751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_25
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 243
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c32039b9b99bf220800000000000000
+      internalID: 2520777439398863814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_26
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 29
+        width: 195
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb6fcbbd50ceb70800000000000000
+      internalID: 8929518602495113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_27
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 73
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16815cda427b1bc70800000000000000
+      internalID: 8985164099742931041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 364
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271e3f16d3b375649a95072cfafc0486
+      internalID: -1401040747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 514
+        width: 253
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da0f578dafc66b4989e2560717d3adf
+      internalID: -114554616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jayce_Viktor_2
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 520
+        width: 201
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f9fd05e06c21499184ebcc37fa3d2
+      internalID: -1930463930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 26bfa085bc0edd04e85c0a4cf5ae1eca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jayce_Viktor_0: -1401040747
+      Jayce_Viktor_1: -114554616
+      Jayce_Viktor_2: -1930463930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
