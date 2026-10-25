@@ -121,287 +121,353 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jinx_0
+      name: JINX_0
       rect:
         serializedVersion: 2
-        x: 30
-        y: 347
-        width: 259
-        height: 298
+        x: 96
+        y: 346
+        width: 245
+        height: 378
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c162b81548505a440800000000000000
-      internalID: 4946365831598253596
+      spriteID: fd23e0cd8120cda478403233be5cb851
+      internalID: 1361867587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jinx_1
+      name: JINX_1
       rect:
         serializedVersion: 2
-        x: 283
-        y: 337
-        width: 255
-        height: 293
+        x: 373
+        y: 339
+        width: 221
+        height: 379
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 76bcac1c541461230800000000000000
-      internalID: 3609143919243873127
+      spriteID: b75f43ed2f4b36d42b21cc00d0700fc7
+      internalID: 1087619218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jinx_2
+      name: JINX_2
       rect:
         serializedVersion: 2
-        x: 510
-        y: 350
-        width: 308
+        x: 650
+        y: 345
+        width: 227
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a97a69e6ec056248beb907fed1c14d9
+      internalID: 279677274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 341
+        width: 232
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549e4d0e5a0a4148835ab2e40640234
+      internalID: 342719274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_4
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 345
+        width: 222
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7c2239736a65408053f31d0c22087
+      internalID: 324918894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_5
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 341
+        width: 201
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a98362c67090e499384db8c081975d
+      internalID: -715209013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_6
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 342
+        width: 210
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f3151a2edf414abf301f9669e973a
+      internalID: -231448075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_7
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 342
+        width: 213
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c12e379143c12f47a4c2f60ce00ae5e
+      internalID: -951074723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_8
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 8
+        width: 215
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d39f5975e20a4697666b2a1224076
+      internalID: -1205429888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_9
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 7
+        width: 180
         height: 327
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0591e4b3ad929f500800000000000000
-      internalID: 430421256665176400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jinx_4
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 34
-        width: 264
-        height: 288
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c78840b68dfdcec10800000000000000
-      internalID: 2084286848167086204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jinx_5
-      rect:
-        serializedVersion: 2
-        x: 289
-        y: 34
-        width: 277
-        height: 288
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79d2ee9215637d770800000000000000
-      internalID: 8635430532729941399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jinx_6
-      rect:
-        serializedVersion: 2
-        x: 559
-        y: 31
-        width: 284
-        height: 267
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 411008890afa90510800000000000000
-      internalID: 1515935853875036436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jinx_3
-      rect:
-        serializedVersion: 2
-        x: 824
-        y: 352
-        width: 303
-        height: 322
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f577203550378cb4994b1016aed6ff6a
-      internalID: 70208369
+      spriteID: de54a09917f071a40888558d90b5cda3
+      internalID: -2097725647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jinx_7
+      name: JINX_10
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 350
-        width: 324
-        height: 324
+        x: 1368
+        y: 0
+        width: 198
+        height: 332
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a680d9d54a02604da2aecd62e13527b
-      internalID: 1827815928
+      spriteID: 25bd9cb646c22ec47bcb98ef14b8a87f
+      internalID: 1078034828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jinx_8
+      name: JINX_11
       rect:
         serializedVersion: 2
-        x: 1471
-        y: 344
-        width: 307
-        height: 327
+        x: 1112
+        y: 0
+        width: 211
+        height: 334
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8917166a1023d2e48954582f827873a4
-      internalID: 1351185905
+      spriteID: d8da26a6f523e4345b9ff8e5970bf86a
+      internalID: 595931574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jinx_9
+      name: JINX_12
       rect:
         serializedVersion: 2
-        x: 1816
-        y: 348
-        width: 325
+        x: 850
+        y: 2
+        width: 196
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e247cfb202fc4284f503c015af9f5
+      internalID: 1128738900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 194
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfea32100e0fe224895432bd23fa147d
+      internalID: -443182613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JINX_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 11
+        width: 196
         height: 321
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d250e243f1642344e87c16e9e4daaef3
-      internalID: 1936323934
+      spriteID: 6aaf0881b62ca0b48a33fccd148ca36e
+      internalID: 190965140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: jinx_10
+      name: JINX_15
       rect:
         serializedVersion: 2
-        x: 854
-        y: 42
-        width: 280
-        height: 257
+        x: 65
+        y: 8
+        width: 228
+        height: 317
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37e82d2febde3dc459ce9b24ec353d47
-      internalID: 1466459150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jinx_11
-      rect:
-        serializedVersion: 2
-        x: 1141
-        y: 106
-        width: 180
-        height: 133
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4696567b47aa6304b91b630dd8f5ac2d
-      internalID: 1905014322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jinx_12
-      rect:
-        serializedVersion: 2
-        x: 1868
-        y: 27
-        width: 273
-        height: 289
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce709d6d0e69bd64ab29b2df50f1c832
-      internalID: 970083803
+      spriteID: 87e84a63c2c74ac43a6589a0f10f64ed
+      internalID: -1734603580
       vertices: []
       indices: 
       edges: []
@@ -420,6 +486,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      JINX_0: 1361867587
+      JINX_1: 1087619218
+      JINX_10: 1078034828
+      JINX_11: 595931574
+      JINX_12: 1128738900
+      JINX_13: -443182613
+      JINX_14: 190965140
+      JINX_15: -1734603580
+      JINX_2: 279677274
+      JINX_3: 342719274
+      JINX_4: 324918894
+      JINX_5: -715209013
+      JINX_6: -231448075
+      JINX_7: -951074723
+      JINX_8: -1205429888
+      JINX_9: -2097725647
       jinx_10: 1466459150
       jinx_11: 1905014322
       jinx_12: 970083803
