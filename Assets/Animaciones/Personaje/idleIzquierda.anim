@@ -23,7 +23,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -32,7 +32,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.5833333
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -52,11 +52,7 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -492966899, guid: 25048b170d5039c4b978464cb555dc57, type: 3}
-    - time: 0.15
-      value: {fileID: -492966899, guid: 25048b170d5039c4b978464cb555dc57, type: 3}
-    - time: 0.3
-      value: {fileID: 1361867587, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
-    - time: 0.43333334
+    - time: 0.5833333
       value: {fileID: 1361867587, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     attribute: m_Sprite
     path: 
@@ -90,15 +86,13 @@ AnimationClip:
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
     - {fileID: -492966899, guid: 25048b170d5039c4b978464cb555dc57, type: 3}
-    - {fileID: -492966899, guid: 25048b170d5039c4b978464cb555dc57, type: 3}
-    - {fileID: 1361867587, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     - {fileID: 1361867587, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.5833333
+    m_StopTime: 0.59999996
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -120,7 +114,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -129,7 +123,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.5833333
-        value: 0
+        value: 1
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
