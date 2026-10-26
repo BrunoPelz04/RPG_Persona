@@ -187,20 +187,20 @@ TextureImporter:
       name: ataquesJinxs_0
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 1376
-        height: 1016
+        x: 37
+        y: 621
+        width: 157
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 72c6ba633a3e1abe0800000000000000
-      internalID: -1467641713409692633
+      spriteID: a156f447411088343a8482a48e5a369a
+      internalID: -1024863199
       vertices: []
       indices: 
       edges: []
@@ -209,20 +209,20 @@ TextureImporter:
       name: ataquesJinxs_1
       rect:
         serializedVersion: 2
-        x: 188
-        y: 1007
-        width: 37
-        height: 15
+        x: 242
+        y: 618
+        width: 188
+        height: 264
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 80127c4551ef28500800000000000000
-      internalID: 397159084732129544
+      spriteID: 3b5bced6f5caefa43b54eb9a65fd5033
+      internalID: -33786359
       vertices: []
       indices: 
       edges: []
@@ -231,20 +231,20 @@ TextureImporter:
       name: ataquesJinxs_2
       rect:
         serializedVersion: 2
-        x: 196
-        y: 1019
-        width: 11
-        height: 5
+        x: 479
+        y: 619
+        width: 289
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 00bf41967e5c6be30800000000000000
-      internalID: 4519016873803971328
+      spriteID: 2ba97d8a353f1584396ac96912bf5465
+      internalID: 1319631551
       vertices: []
       indices: 
       edges: []
@@ -253,20 +253,20 @@ TextureImporter:
       name: ataquesJinxs_3
       rect:
         serializedVersion: 2
-        x: 309
-        y: 1006
-        width: 12
-        height: 12
+        x: 772
+        y: 620
+        width: 240
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 469c413cfc8d69210800000000000000
-      internalID: 1339496326032050532
+      spriteID: 55446c1d3c5355e43ad073b95c625eac
+      internalID: 796602352
       vertices: []
       indices: 
       edges: []
@@ -275,20 +275,20 @@ TextureImporter:
       name: ataquesJinxs_4
       rect:
         serializedVersion: 2
-        x: 414
-        y: 1009
-        width: 17
-        height: 15
+        x: 1019
+        y: 620
+        width: 205
+        height: 279
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f4a58173dfbcff420800000000000000
-      internalID: 2666073792838130255
+      spriteID: c5c581310ca6b624d808882dccb18575
+      internalID: 1864293233
       vertices: []
       indices: 
       edges: []
@@ -297,20 +297,20 @@ TextureImporter:
       name: ataquesJinxs_5
       rect:
         serializedVersion: 2
-        x: 538
-        y: 1013
-        width: 21
-        height: 11
+        x: 1224
+        y: 615
+        width: 182
+        height: 287
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 82399d0ea5aa37230800000000000000
-      internalID: 3635436631514256168
+      spriteID: bb2c19808a4d3334685c23b4f2f98c32
+      internalID: 1665137190
       vertices: []
       indices: 
       edges: []
@@ -319,20 +319,20 @@ TextureImporter:
       name: ataquesJinxs_6
       rect:
         serializedVersion: 2
-        x: 24
-        y: 907
-        width: 117
-        height: 99
+        x: 1408
+        y: 617
+        width: 128
+        height: 279
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b07a516862dc38e00800000000000000
-      internalID: 1045905103822104331
+      spriteID: c1d4ccef11bef83418e55fe25844d728
+      internalID: -94228739
       vertices: []
       indices: 
       edges: []
@@ -341,20 +341,20 @@ TextureImporter:
       name: ataquesJinxs_7
       rect:
         serializedVersion: 2
-        x: 190
-        y: 966
-        width: 17
-        height: 36
+        x: 11
+        y: 315
+        width: 181
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5298ca63206e08280800000000000000
-      internalID: -9042975154578355931
+      spriteID: 4725a8c901f32cd42987949a87df5d32
+      internalID: 2059953158
       vertices: []
       indices: 
       edges: []
@@ -363,20 +363,20 @@ TextureImporter:
       name: ataquesJinxs_8
       rect:
         serializedVersion: 2
-        x: 368
-        y: 975
-        width: 39
-        height: 29
+        x: 200
+        y: 314
+        width: 192
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 250ea54fa3ee8a1f0800000000000000
-      internalID: -1033314177506418606
+      spriteID: 3b576a364cdcc2145b9f9b7109c48bbe
+      internalID: 139234698
       vertices: []
       indices: 
       edges: []
@@ -385,20 +385,20 @@ TextureImporter:
       name: ataquesJinxs_9
       rect:
         serializedVersion: 2
-        x: 424
-        y: 982
-        width: 7
-        height: 10
+        x: 398
+        y: 317
+        width: 230
+        height: 251
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d89f95bd1f5dc73f0800000000000000
-      internalID: -901610590637000307
+      spriteID: ede911a2f8b8f9e40b7d660458bbae78
+      internalID: 1745543492
       vertices: []
       indices: 
       edges: []
@@ -407,20 +407,20 @@ TextureImporter:
       name: ataquesJinxs_10
       rect:
         serializedVersion: 2
-        x: 1318
-        y: 975
-        width: 9
-        height: 11
+        x: 630
+        y: 316
+        width: 191
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2f31b0a8aadc793a0800000000000000
-      internalID: -6658627391699872782
+      spriteID: 03096b087836952498fcfed38fd84fb3
+      internalID: -198560414
       vertices: []
       indices: 
       edges: []
@@ -429,20 +429,20 @@ TextureImporter:
       name: ataquesJinxs_11
       rect:
         serializedVersion: 2
-        x: 99
-        y: 941
-        width: 16
-        height: 27
+        x: 829
+        y: 314
+        width: 159
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75f5f68a13dfe2d10800000000000000
-      internalID: 2102896465749696343
+      spriteID: 32dd4abaa31050c4b858baf979d1b3ee
+      internalID: 944354493
       vertices: []
       indices: 
       edges: []
@@ -451,20 +451,20 @@ TextureImporter:
       name: ataquesJinxs_12
       rect:
         serializedVersion: 2
-        x: 116
-        y: 941
-        width: 19
-        height: 20
+        x: 996
+        y: 460
+        width: 146
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b491951c0c6d9af00800000000000000
-      internalID: 1128669304998926667
+      spriteID: 3c23615b299581343b33e6f3187f9c85
+      internalID: 1845523163
       vertices: []
       indices: 
       edges: []
@@ -473,20 +473,20 @@ TextureImporter:
       name: ataquesJinxs_13
       rect:
         serializedVersion: 2
-        x: 1268
-        y: 958
-        width: 15
-        height: 18
+        x: 1156
+        y: 309
+        width: 217
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 84759ba1b236d3710800000000000000
-      internalID: 1674603673234790216
+      spriteID: d29a81c83799a49458e92ef62e239277
+      internalID: -741574935
       vertices: []
       indices: 
       edges: []
@@ -495,20 +495,20 @@ TextureImporter:
       name: ataquesJinxs_14
       rect:
         serializedVersion: 2
-        x: 40
-        y: 927
-        width: 7
-        height: 9
+        x: 19
+        y: 23
+        width: 171
+        height: 259
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 47e2d879c05957b00800000000000000
-      internalID: 825729988007112308
+      spriteID: a0404d0e4c4425b42b3c6aca10df3f18
+      internalID: -492966899
       vertices: []
       indices: 
       edges: []
@@ -517,20 +517,20 @@ TextureImporter:
       name: ataquesJinxs_15
       rect:
         serializedVersion: 2
-        x: 46
-        y: 903
-        width: 13
-        height: 26
+        x: 207
+        y: 20
+        width: 158
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ef5e328ed483f4460800000000000000
-      internalID: 7228057834211239422
+      spriteID: c0bd37712cf525947af47b8adffbd8ee
+      internalID: -2021400176
       vertices: []
       indices: 
       edges: []
@@ -539,20 +539,20 @@ TextureImporter:
       name: ataquesJinxs_16
       rect:
         serializedVersion: 2
-        x: 118
-        y: 887
-        width: 29
-        height: 43
+        x: 390
+        y: 23
+        width: 163
+        height: 254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24d10bffe90f76880800000000000000
-      internalID: -8617654796264923838
+      spriteID: 8ade8454cad9caa4aa64a3e28d3f6284
+      internalID: 275145662
       vertices: []
       indices: 
       edges: []
@@ -561,20 +561,20 @@ TextureImporter:
       name: ataquesJinxs_17
       rect:
         serializedVersion: 2
-        x: 134
-        y: 917
-        width: 17
-        height: 27
+        x: 583
+        y: 21
+        width: 153
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 154c302865b37f1c0800000000000000
-      internalID: -4470038862407416751
+      spriteID: 08107ad693ce0274dbace1e9fea0e773
+      internalID: -406655593
       vertices: []
       indices: 
       edges: []
@@ -583,20 +583,20 @@ TextureImporter:
       name: ataquesJinxs_18
       rect:
         serializedVersion: 2
-        x: 30
-        y: 901
-        width: 13
-        height: 21
+        x: 758
+        y: 19
+        width: 171
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d6594ef9557ce3b60800000000000000
-      internalID: 7727833181183055213
+      spriteID: 4b3d2b01f49735b4abe2e5b57d693d73
+      internalID: 2000117510
       vertices: []
       indices: 
       edges: []
@@ -605,20 +605,20 @@ TextureImporter:
       name: ataquesJinxs_19
       rect:
         serializedVersion: 2
-        x: 144
-        y: 884
-        width: 11
-        height: 23
+        x: 950
+        y: 18
+        width: 159
+        height: 259
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 34c1beaaa41244d00800000000000000
-      internalID: 955925625488219203
+      spriteID: ec782925d518df04db97ef66f0248bdd
+      internalID: -1018834459
       vertices: []
       indices: 
       edges: []
@@ -627,20 +627,20 @@ TextureImporter:
       name: ataquesJinxs_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 586
-        width: 197
-        height: 307
+        x: 1144
+        y: 19
+        width: 177
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 90ad989fe270a8ec0800000000000000
-      internalID: -3564028256773875191
+      spriteID: af4a2a38b0524e2488ce856a3a29921c
+      internalID: -343158870
       vertices: []
       indices: 
       edges: []
@@ -649,174 +649,20 @@ TextureImporter:
       name: ataquesJinxs_21
       rect:
         serializedVersion: 2
-        x: 0
-        y: 282
-        width: 195
-        height: 326
+        x: 1347
+        y: 17
+        width: 165
+        height: 259
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 549f9b17f8a8cb290800000000000000
-      internalID: -7873265699857499835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ataquesJinxs_22
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 577
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a231ff4dc092d270800000000000000
-      internalID: 8273834676916925092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ataquesJinxs_23
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 197
-        height: 284
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc3a155f2efc59cc0800000000000000
-      internalID: -3704826544757038132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ataquesJinxs_24
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 282
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4064ec587e9149570800000000000000
-      internalID: 8472425281163773444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ataquesJinxs_25
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 13
-        width: 205
-        height: 291
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4140c2978afff1560800000000000000
-      internalID: 7286823821161268244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ataquesJinxs_26
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 257
-        width: 5
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4bdefaeda0528e670800000000000000
-      internalID: 8568139019688340916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ataquesJinxs_27
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 114
-        width: 5
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61939cbc85e2ceea0800000000000000
-      internalID: -5842243657695413994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ataquesJinxs_28
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 113
-        width: 9
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 826e95f942c8e6980800000000000000
-      internalID: -8543737354155071960
+      spriteID: 2bc55879f243f254b8dfff07ca84d4ff
+      internalID: -1681063346
       vertices: []
       indices: 
       edges: []
@@ -825,7 +671,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cfeda1b6cf8bd274da5072ca51433965
     internalID: 0
     vertices: []
     indices: 
@@ -834,7 +680,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ataquesJinxs_0: -1024863199
+      ataquesJinxs_1: -33786359
+      ataquesJinxs_10: -198560414
+      ataquesJinxs_11: 944354493
+      ataquesJinxs_12: 1845523163
+      ataquesJinxs_13: -741574935
+      ataquesJinxs_14: -492966899
+      ataquesJinxs_15: -2021400176
+      ataquesJinxs_16: 275145662
+      ataquesJinxs_17: -406655593
+      ataquesJinxs_18: 2000117510
+      ataquesJinxs_19: -1018834459
+      ataquesJinxs_2: 1319631551
+      ataquesJinxs_20: -343158870
+      ataquesJinxs_21: -1681063346
+      ataquesJinxs_3: 796602352
+      ataquesJinxs_4: 1864293233
+      ataquesJinxs_5: 1665137190
+      ataquesJinxs_6: -94228739
+      ataquesJinxs_7: 2059953158
+      ataquesJinxs_8: 139234698
+      ataquesJinxs_9: 1745543492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
