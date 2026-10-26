@@ -158359,11 +158359,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lines:
-  - Recuerda que perteneces al grupo de exploracion, debes dirigirte hacia el bosque
+  - Recuerda que perteneces al grupo de liberacion, debes dirigirte hacia el bosque
   - 'Debes buscar unas escaleras que te lleven '
   - "Si vas hacia abajo hay una peque\xF1a tienda por si ocupas algo"
   imagenNPC: {fileID: 4941923189732691063, guid: f271a39bddc187a47ba088b7327314a8, type: 3}
-  nombreNPC: Guardia
+  nombreNPC: Jayce
   interactDistance: 2
   esTienda: 0
   tiendaPanel: {fileID: 0}
@@ -158954,7 +158954,7 @@ MonoBehaviour:
   - Un consejo, al subir de nivel existe la probabilidad de obtener armadura
   - "Si tu armadura es la misma que el da\xF1o, entonces el enemigo no te hara da\xF1o"
   imagenNPC: {fileID: -567081227, guid: f98a849dde312db40b9cfcef49b74b1c, type: 3}
-  nombreNPC: Mariana
+  nombreNPC: Silco
   interactDistance: 3
   esTienda: 0
   tiendaPanel: {fileID: 0}
@@ -183318,9 +183318,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lines:
-  - Me gusta jugar Liga de Leyendas
+  - "Pensaba que nunca podr\xEDamos trabajar juntas hermana"
   imagenNPC: {fileID: 1808134190, guid: 45bcb338236a3a34483aa3323fdd1b5c, type: 3}
-  nombreNPC: Bruno
+  nombreNPC: Vi
   interactDistance: 2
   esTienda: 0
   tiendaPanel: {fileID: 0}
@@ -184566,13 +184566,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lines:
-  - Gente latinooooo
-  - Hola, mucho gusto mi nombre es Daniel
-  - 'Tomar el aire es super refrescante '
+  - "JInx, te extra\xF1e!!"
+  - 'Nunca podre agradecerte lo suficiente por rescatarme de las calles '
+  - 'Tener a alguien en quien confiar hace muy diferente la vida '
   - Si tienes alguna pregunta puedes irte a la parte de ayuda
   - Se encuentra al poner pausa
   imagenNPC: {fileID: 7189606440607327572, guid: 2c633af408a0a2c49a50a564051ac973, type: 3}
-  nombreNPC: Daniel
+  nombreNPC: Isha
   interactDistance: 2
   esTienda: 0
   tiendaPanel: {fileID: 0}
@@ -189737,7 +189737,7 @@ MonoBehaviour:
   lines:
   - 
   imagenNPC: {fileID: 0}
-  nombreNPC: Alejandro
+  nombreNPC: Vander
   interactDistance: 2
   esTienda: 1
   tiendaPanel: {fileID: 1057215927}
@@ -210362,10 +210362,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lines:
-  - Por el momento nadie puede retirarte de la zona fronteriza
-  - Ordenes del ejercito imperial
+  - Por el momento nadie puede cruzar entre Zauwn y Pilt Over
+  - Ordenes del Comite de Pilt Over
   imagenNPC: {fileID: 3012552631347479670, guid: b923517b361cc254bb23ff62bf5fe273, type: 3}
-  nombreNPC: Guardia
+  nombreNPC: Viktor
   interactDistance: 2
   esTienda: 0
   tiendaPanel: {fileID: 0}
@@ -661106,7 +661106,7 @@ MonoBehaviour:
   - "Si vas hacia abajo hay una peque\xF1a tienda por si ocupas algo"
   - Pero ten cuidado en el bsoque, hay plaga de ratas
   imagenNPC: {fileID: -1762023386, guid: 9e78d2509a6174442b12554ceb621bd9, type: 3}
-  nombreNPC: Alan
+  nombreNPC: Ekko
   interactDistance: 2
   esTienda: 0
   tiendaPanel: {fileID: 0}

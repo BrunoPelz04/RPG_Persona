@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 25048b170d5039c4b978464cb555dc57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1467641713409692633
+    second: ataquesJinxs_0
+  - first:
+      213: 397159084732129544
+    second: ataquesJinxs_1
+  - first:
+      213: 4519016873803971328
+    second: ataquesJinxs_2
+  - first:
+      213: 1339496326032050532
+    second: ataquesJinxs_3
+  - first:
+      213: 2666073792838130255
+    second: ataquesJinxs_4
+  - first:
+      213: 3635436631514256168
+    second: ataquesJinxs_5
+  - first:
+      213: 1045905103822104331
+    second: ataquesJinxs_6
+  - first:
+      213: -9042975154578355931
+    second: ataquesJinxs_7
+  - first:
+      213: -1033314177506418606
+    second: ataquesJinxs_8
+  - first:
+      213: -901610590637000307
+    second: ataquesJinxs_9
+  - first:
+      213: -6658627391699872782
+    second: ataquesJinxs_10
+  - first:
+      213: 2102896465749696343
+    second: ataquesJinxs_11
+  - first:
+      213: 1128669304998926667
+    second: ataquesJinxs_12
+  - first:
+      213: 1674603673234790216
+    second: ataquesJinxs_13
+  - first:
+      213: 825729988007112308
+    second: ataquesJinxs_14
+  - first:
+      213: 7228057834211239422
+    second: ataquesJinxs_15
+  - first:
+      213: -8617654796264923838
+    second: ataquesJinxs_16
+  - first:
+      213: -4470038862407416751
+    second: ataquesJinxs_17
+  - first:
+      213: 7727833181183055213
+    second: ataquesJinxs_18
+  - first:
+      213: 955925625488219203
+    second: ataquesJinxs_19
+  - first:
+      213: -3564028256773875191
+    second: ataquesJinxs_20
+  - first:
+      213: -7873265699857499835
+    second: ataquesJinxs_21
+  - first:
+      213: 8273834676916925092
+    second: ataquesJinxs_22
+  - first:
+      213: -3704826544757038132
+    second: ataquesJinxs_23
+  - first:
+      213: 8472425281163773444
+    second: ataquesJinxs_24
+  - first:
+      213: 7286823821161268244
+    second: ataquesJinxs_25
+  - first:
+      213: 8568139019688340916
+    second: ataquesJinxs_26
+  - first:
+      213: -5842243657695413994
+    second: ataquesJinxs_27
+  - first:
+      213: -8543737354155071960
+    second: ataquesJinxs_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ataquesJinxs_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 1376
+        height: 1016
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c6ba633a3e1abe0800000000000000
+      internalID: -1467641713409692633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1007
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80127c4551ef28500800000000000000
+      internalID: 397159084732129544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1019
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf41967e5c6be30800000000000000
+      internalID: 4519016873803971328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1006
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469c413cfc8d69210800000000000000
+      internalID: 1339496326032050532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1009
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a58173dfbcff420800000000000000
+      internalID: 2666073792838130255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1013
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82399d0ea5aa37230800000000000000
+      internalID: 3635436631514256168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 907
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a516862dc38e00800000000000000
+      internalID: 1045905103822104331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 966
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298ca63206e08280800000000000000
+      internalID: -9042975154578355931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 975
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ea54fa3ee8a1f0800000000000000
+      internalID: -1033314177506418606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 982
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89f95bd1f5dc73f0800000000000000
+      internalID: -901610590637000307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_10
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 975
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f31b0a8aadc793a0800000000000000
+      internalID: -6658627391699872782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 941
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f5f68a13dfe2d10800000000000000
+      internalID: 2102896465749696343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 941
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491951c0c6d9af00800000000000000
+      internalID: 1128669304998926667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_13
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 958
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84759ba1b236d3710800000000000000
+      internalID: 1674603673234790216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 927
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e2d879c05957b00800000000000000
+      internalID: 825729988007112308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 903
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5e328ed483f4460800000000000000
+      internalID: 7228057834211239422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 887
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d10bffe90f76880800000000000000
+      internalID: -8617654796264923838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 917
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154c302865b37f1c0800000000000000
+      internalID: -4470038862407416751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 901
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6594ef9557ce3b60800000000000000
+      internalID: 7727833181183055213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 884
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c1beaaa41244d00800000000000000
+      internalID: 955925625488219203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 197
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad989fe270a8ec0800000000000000
+      internalID: -3564028256773875191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 195
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549f9b17f8a8cb290800000000000000
+      internalID: -7873265699857499835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 577
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a231ff4dc092d270800000000000000
+      internalID: 8273834676916925092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 197
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a155f2efc59cc0800000000000000
+      internalID: -3704826544757038132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4064ec587e9149570800000000000000
+      internalID: 8472425281163773444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 13
+        width: 205
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4140c2978afff1560800000000000000
+      internalID: 7286823821161268244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdefaeda0528e670800000000000000
+      internalID: 8568139019688340916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 5
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61939cbc85e2ceea0800000000000000
+      internalID: -5842243657695413994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataquesJinxs_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 113
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e95f942c8e6980800000000000000
+      internalID: -8543737354155071960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
