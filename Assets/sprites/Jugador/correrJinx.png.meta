@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: bc70d4444d9a0bb4fb6097dda00ab8dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6105532082527788831
+    second: correrJinx_0
+  - first:
+      213: 444567749678435314
+    second: correrJinx_1
+  - first:
+      213: 8035145391627215670
+    second: correrJinx_2
+  - first:
+      213: 3298339812036051218
+    second: correrJinx_3
+  - first:
+      213: 8833021296181983958
+    second: correrJinx_4
+  - first:
+      213: 3035858617254645883
+    second: correrJinx_5
+  - first:
+      213: -8617617390564254919
+    second: correrJinx_6
+  - first:
+      213: -3179410220902758876
+    second: correrJinx_7
+  - first:
+      213: 1870402175973522073
+    second: correrJinx_8
+  - first:
+      213: -5448665746102810458
+    second: correrJinx_9
+  - first:
+      213: 3684615203205169927
+    second: correrJinx_10
+  - first:
+      213: 2917168295325176360
+    second: correrJinx_11
+  - first:
+      213: 7395911505430225816
+    second: correrJinx_12
+  - first:
+      213: 5177283502554509704
+    second: correrJinx_13
+  - first:
+      213: 7731489002928682384
+    second: correrJinx_14
+  - first:
+      213: 7004234632266024444
+    second: correrJinx_15
+  - first:
+      213: -7586338044076988865
+    second: correrJinx_16
+  - first:
+      213: -6551619587743740977
+    second: correrJinx_17
+  - first:
+      213: -7775124879648508551
+    second: correrJinx_18
+  - first:
+      213: -7601389708825066891
+    second: correrJinx_19
+  - first:
+      213: -8240535856062643901
+    second: correrJinx_20
+  - first:
+      213: 1981873256400506746
+    second: correrJinx_21
+  - first:
+      213: -2740281771852799966
+    second: correrJinx_22
+  - first:
+      213: 6968000034269241426
+    second: correrJinx_23
+  - first:
+      213: -8595883536815452744
+    second: correrJinx_24
+  - first:
+      213: -4138385993268928340
+    second: correrJinx_25
+  - first:
+      213: -5710653160006626291
+    second: correrJinx_26
+  - first:
+      213: -5962938734460408091
+    second: correrJinx_27
+  - first:
+      213: -4615536277839366104
+    second: correrJinx_28
+  - first:
+      213: 1327532731347835028
+    second: correrJinx_29
+  - first:
+      213: 7151504811105919569
+    second: correrJinx_30
+  - first:
+      213: -4726968491844943333
+    second: correrJinx_31
+  - first:
+      213: 4770149998746412322
+    second: correrJinx_32
+  - first:
+      213: 8189716403755587542
+    second: correrJinx_33
+  - first:
+      213: 2255328568301882701
+    second: correrJinx_34
+  - first:
+      213: 8347150979882166218
+    second: correrJinx_35
+  - first:
+      213: -7257424404492197648
+    second: correrJinx_36
+  - first:
+      213: -5621290859398453611
+    second: correrJinx_37
+  - first:
+      213: -7754863046734015596
+    second: correrJinx_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: correrJinx_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 623
+        width: 230
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993a221e4f271a44380ba62d131ead0f
+      internalID: -1906165545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 623
+        width: 232
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e26175b104d742bb8e89ffdeb4816
+      internalID: 1799525590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 623
+        width: 238
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c4b66885d1614a8c826c941d020d2
+      internalID: -2114674323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 621
+        width: 230
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce06a7312beaf64f96274e7e2707f55
+      internalID: -1244908259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_4
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 622
+        width: 242
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c7b0aa08b80cf4e87700cd40fbb4b9
+      internalID: 127795330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_5
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 621
+        width: 236
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac37de5e069c24a86c1bc4ffb845b0
+      internalID: -1117279944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 306
+        width: 197
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf820ec65ed71d641abbfa068f939b65
+      internalID: 594911324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 305
+        width: 229
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc2fe8b2154e54483d17333d25ddd1
+      internalID: -1866271563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 306
+        width: 224
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55c6117f87feb4fb04598847b4473d
+      internalID: -649891930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_9
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 304
+        width: 212
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48cb9017e34bd40b4d2731cfea894c
+      internalID: -887222587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_10
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 303
+        width: 232
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02224cab3ea1cb4fb5a1aff26d209cb
+      internalID: 986558844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_11
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 306
+        width: 227
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e4222d4ded964788a85879c535ed0
+      internalID: 956829642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 258
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0901c2696f741a7479eb35731da6f0af
+      internalID: 474114036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 7
+        width: 266
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b908ccc541f7f4798e4a070dbb5c4f
+      internalID: -1349909194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 4
+        width: 260
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d23b9eb371c074e87062b3910af44a
+      internalID: -657953821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_15
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 9
+        width: 260
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeef6c5d6a226c45a4d6b31b8d332db
+      internalID: -1117840378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_16
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 5
+        width: 258
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53cd6f9d6fcca48b198c84425ff3fc
+      internalID: -1533335523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: correrJinx_17
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 0
+        width: 266
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e116d2d16a0844a4aa16cd3ede535
+      internalID: -764109097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d233a3367725b734299560ff43d3959d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      correrJinx_0: -1906165545
+      correrJinx_1: 1799525590
+      correrJinx_10: 986558844
+      correrJinx_11: 956829642
+      correrJinx_12: 474114036
+      correrJinx_13: -1349909194
+      correrJinx_14: -657953821
+      correrJinx_15: -1117840378
+      correrJinx_16: -1533335523
+      correrJinx_17: -764109097
+      correrJinx_2: -2114674323
+      correrJinx_3: -1244908259
+      correrJinx_4: 127795330
+      correrJinx_5: -1117279944
+      correrJinx_6: 594911324
+      correrJinx_7: -1866271563
+      correrJinx_8: -649891930
+      correrJinx_9: -887222587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
