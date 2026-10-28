@@ -21,9 +21,9 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 9218413679103465297, guid: f16d6f1dcc59d1348a77dc565b13e4fb, type: 3}
+      value: {fileID: -1205429888, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     attribute: m_Sprite
-    path: 
+    path: Sword
     classID: 212
     script: {fileID: 0}
     flags: 2
@@ -35,7 +35,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 0
+      path: 1529145355
       attribute: 0
       script: {fileID: 0}
       typeID: 212
@@ -44,7 +44,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 9218413679103465297, guid: f16d6f1dcc59d1348a77dc565b13e4fb, type: 3}
+    - {fileID: -1205429888, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
