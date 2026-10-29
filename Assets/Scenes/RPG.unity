@@ -179760,7 +179760,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"Q" para cambiar personaje'
+  m_Text: Q  Tipo Ataque
 --- !u!222 &485279840
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -209435,7 +209435,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"T" para abrir y cerrar tienda'
+  m_Text: T  Tienda
 --- !u!222 &957129639
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -657826,7 +657826,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1056881641403867874, guid: 083c31553ffee3745a9f7ad8d6384405, type: 3}
+  m_Sprite: {fileID: 796602352, guid: 25048b170d5039c4b978464cb555dc57, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -784465,7 +784465,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SHIFT para correr
+  m_Text: SHIFT  Correr
 --- !u!222 &1593230204
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -888389,7 +888389,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '"U" para utilizar item'
+  m_Text: U  Usar item
 --- !u!222 &1849670258
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1096219,7 +1096219,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5380331950584408900, guid: f16d6f1dcc59d1348a77dc565b13e4fb, type: 3}
+  m_Sprite: {fileID: -198560414, guid: 25048b170d5039c4b978464cb555dc57, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
