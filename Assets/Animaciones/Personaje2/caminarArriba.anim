@@ -24,22 +24,20 @@ AnimationClip:
       value: {fileID: -1205429888, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     - time: 0.1
       value: {fileID: -2097725647, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
-    - time: 0.18333334
+    - time: 0.21666667
       value: {fileID: 1078034828, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
-    - time: 0.28333333
+    - time: 0.31666666
       value: {fileID: 595931574, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
-    - time: 0.36666667
+    - time: 0.43333334
       value: {fileID: 1128738900, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
-    - time: 0.46666667
+    - time: 0.53333336
       value: {fileID: -443182613, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
-    - time: 0.56666666
-      value: {fileID: 190965140, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     - time: 0.65
-      value: {fileID: -1734603580, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
+      value: {fileID: 190965140, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     - time: 0.75
-      value: {fileID: -1205429888, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
+      value: {fileID: -1734603580, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     attribute: m_Sprite
-    path: Sword
+    path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
@@ -51,7 +49,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1529145355
+      path: 0
       attribute: 0
       script: {fileID: 0}
       typeID: 212
@@ -68,7 +66,6 @@ AnimationClip:
     - {fileID: -443182613, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     - {fileID: 190965140, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
     - {fileID: -1734603580, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
-    - {fileID: -1205429888, guid: ffee92eee081c5b4a965da29e94fcc0d, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

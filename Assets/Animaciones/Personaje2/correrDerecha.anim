@@ -22,20 +22,18 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -1906165545, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
-    - time: 0.13333334
+    - time: 0.15
       value: {fileID: 1799525590, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
-    - time: 0.25
+    - time: 0.3
       value: {fileID: -2114674323, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
-    - time: 0.36666667
+    - time: 0.45
       value: {fileID: -1244908259, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
-    - time: 0.5
+    - time: 0.6
       value: {fileID: 127795330, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
-    - time: 0.6333333
-      value: {fileID: -1117279944, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
     - time: 0.75
-      value: {fileID: -1906165545, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
+      value: {fileID: -1117279944, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
     attribute: m_Sprite
-    path: Sword
+    path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
@@ -47,7 +45,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1529145355
+      path: 0
       attribute: 0
       script: {fileID: 0}
       typeID: 212
@@ -62,7 +60,6 @@ AnimationClip:
     - {fileID: -1244908259, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
     - {fileID: 127795330, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
     - {fileID: -1117279944, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
-    - {fileID: -1906165545, guid: bc70d4444d9a0bb4fb6097dda00ab8dc, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
