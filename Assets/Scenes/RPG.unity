@@ -158948,10 +158948,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lines:
-  - Hola... mucho gusto me llamo Mariana
-  - El camino hacia la playa esta cerrado...
-  - "Yo queria ir \xBFCual abra sido el motivo?"
-  - Un consejo, al subir de nivel existe la probabilidad de obtener armadura
+  - ' Bajo mi mando Zaun sera libre'
+  - El camino hacia Piltover esta cerrado...
+  - Sera una Guerra contra Piltover
+  - Para mejorar debes de subir de nivel existe la probabilidad de obtener armadura
   - "Si tu armadura es la misma que el da\xF1o, entonces el enemigo no te hara da\xF1o"
   imagenNPC: {fileID: -567081227, guid: f98a849dde312db40b9cfcef49b74b1c, type: 3}
   nombreNPC: Silco
@@ -661100,11 +661100,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lines:
-  - Hola mucho gusto...
-  - Eres nuevo en la zona fronteriza verdad?
-  - Te voy a explicar rapidamente, por este pasillo llegaras al bosque
-  - "Si vas hacia abajo hay una peque\xF1a tienda por si ocupas algo"
-  - Pero ten cuidado en el bsoque, hay plaga de ratas
+  - Tiempo sin verte Jinx
+  - Recuerdas como jugabamos?...
+  - Eso crei.. por este pasillo llegaras al bosque
+  - "Si vas hacia atras hay una peque\xF1a tienda por si ocupas algo"
+  - "Cuidado en el bosque veras espectros rondando por ah\xED"
   imagenNPC: {fileID: -1762023386, guid: 9e78d2509a6174442b12554ceb621bd9, type: 3}
   nombreNPC: Ekko
   interactDistance: 2
